@@ -1,5 +1,8 @@
 # rspec
 
+官方文档
+http://rspec.info/documentation/3.5/rspec-rails/
+
 install :
 
 gem install rspec
